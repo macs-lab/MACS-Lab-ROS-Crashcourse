@@ -54,3 +54,5 @@ Objective of the course: learn how to use ROS to design and program robust robot
 		2. Gaussian blur
 		3. Thresholding
 		4. cv_bridge for converting to ROS Image message
+
+5. ML Integration
